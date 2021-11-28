@@ -1,9 +1,9 @@
 #!/bin/bash
 
 MODEL_DIR=./project/models
-LOCAL_MODEL_ZIP=mbert-multi.zip
-LOCAL_MODEL_DIR=mbert-multi
-REMOTE_MODEL_URL=https://www.dropbox.com/s/hokzeqhhua8ke7m/mbert-multi.zip
+LOCAL_MODEL_ZIP=crosloengual-bert-cse.zip
+LOCAL_MODEL_DIR=crosloengual-bert-cse
+REMOTE_MODEL_URL=https://www.dropbox.com/s/yrgnai39bm93rjl/crosloengual-bert-cse.zip
 
 if [ ! -d $MODEL_DIR ]; then
     mkdir $MODEL_DIR
