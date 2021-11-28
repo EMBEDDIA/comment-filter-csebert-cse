@@ -3,7 +3,7 @@
 MODEL_DIR=./project/models
 LOCAL_MODEL_ZIP=crosloengual-bert-cse.zip
 LOCAL_MODEL_DIR=crosloengual-bert-cse
-REMOTE_MODEL_URL=https://www.dropbox.com/s/yrgnai39bm93rjl/crosloengual-bert-cse.zip
+REMOTE_MODEL_URL=https://www.dropbox.com/s/dnpg3pls8uhl94s/crosloengual-bert-cse.zip
 
 if [ ! -d $MODEL_DIR ]; then
     mkdir $MODEL_DIR
